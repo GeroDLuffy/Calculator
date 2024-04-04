@@ -10,7 +10,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-print("Select operation.\n1.Add\n2.Subtract\n3.Multiply\n4.Divide\n5.Exit")
+    print("Select operation.\n1.Add\n2.Subtract\n3.Multiply\n4.Divide\n5.Exit")
 
 while True:
     choice = input("Enter choice(1/2/3/4/5): ")
